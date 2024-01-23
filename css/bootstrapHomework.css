@@ -1,0 +1,76 @@
+/* CSS Document */
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #292929;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Navbar */
+.nav-link, .navbar-brand {
+  color: #FFF;
+}
+
+
+/* Row One */
+.one-col{
+background-color:  #ffb3b3;
+}
+
+.two-col{
+  background-color:  #ffcccc;
+}
+
+.three-col{
+background-color:  #ffe6e6;
+}
+
+/* Row Two */
+.one-col-row-two{
+  background-color: #ff8080;
+  }
+  
+  .two-col-row-two{
+    background-color:#ff6666;
+  }
+  
+  .three-col-row-two{
+  background-color:  #ff4d4d;
+  }
+
+  /* Row Three */
+.one-col-row-three{
+  background-color: #ff3333;
+  }
+  
+  .two-col-row-three{
+    background-color:#cc0000;
+  }
+  
+  .three-col-row-three{
+  background-color:  #990000;
+  color: #FFF;
+  }
+
+
+/* Footer */
+footer {
+  width: 100%;
+  padding: 1.5rem 0 3rem 0;
+  height: 5rem;
+  bottom: 0;
+  height: 3.6rem;
+  text-align: center;
+}
+
+.footer-link {
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  text-decoration: underline;
+}
